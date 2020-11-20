@@ -9,3 +9,5 @@ For this assignment we had to make a LED blink 4 times a second. We used the del
 https://create.arduino.cc/editor/ezell38/7ccf391e-26fb-4321-82ae-42617d763060
 
 ## Picture
+
+<img src="Blink.png" alt="Blink" width="128" height="128">
