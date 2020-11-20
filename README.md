@@ -10,4 +10,8 @@ https://create.arduino.cc/editor/ezell38/7ccf391e-26fb-4321-82ae-42617d763060
 
 ## Picture
 
-<img src="Blink.png" alt="Blink" width="128" height="128">
+<img src="Blink.png" alt="Blink" width="225" height="225">
+
+## Lesson Learned
+
+I learned how to set up my first circuit and use basic arduino.
